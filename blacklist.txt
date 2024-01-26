@@ -1,0 +1,11 @@
+# Homepage: https://github.com/EvilChaosMaker/Sub-uBlacklist
+
+
+# --------------------------------------------------- google.com ---------------------------------------------------
+
+# Block Google Books
+*://books.google.com/*
+*://play.google.com/store/books/*
+
+# Block Google Groups
+*://groups.google.com/*
