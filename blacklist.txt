@@ -3,9 +3,11 @@
 
 # --------------------------------------------------- google.com ---------------------------------------------------
 
-# Block Google Books
+# Block Google Books.
 *://books.google.com/*
+*://books.google.com.hk/*
 *://play.google.com/store/books/*
 
-# Block Google Groups
+
+# Block Google Groups.
 *://groups.google.com/*
